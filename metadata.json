@@ -1,0 +1,6 @@
+{
+  "name": "Muslim App - Aplikasi Islam Digital Lengkap",
+  "description": "Aplikasi Muslim digital modern, lengkap, dan interaktif dengan Al-Qur'an 114 Surah, audio murattal, jadwal salat presisi, kompas kiblat, hadis shahih, sirah nabawiyah, doa & dzikir, tasbih digital, dan mutaba'ah ibadah.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
